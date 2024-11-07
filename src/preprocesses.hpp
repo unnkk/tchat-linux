@@ -16,5 +16,3 @@
 #define DEFAULT_PORT 65375
 #define BUFFER_SIZE 1024
 #define CLIENT_CLOSE_CONNECTION_SYMBOL '#'
-
-void getFile(const char* &SERVER_IP, const char* &nickname);

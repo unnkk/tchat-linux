@@ -4,7 +4,6 @@ project(chat)
 
 add_executable(chat
     ./src/main.cpp
-    ./src/getFile.cpp
     ./src/preprocesses.hpp
 )
 
